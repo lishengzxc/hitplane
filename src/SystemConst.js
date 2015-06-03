@@ -81,7 +81,7 @@ HIGHSCORE_KEY = "highscore_key";
 
 //自定义的布尔常量
 BOOL = {
-    NO:"0",
-    YES:"1"
+	NO:"0",
+	YES:"1"
 }
 
